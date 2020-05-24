@@ -1,4 +1,4 @@
-#PHPDocs
+# PHPDocs
 Proof of concept. Only contains one file, index.php as it will connect to a remote MySQL server.
 If you are directly importing, the 4 colums will be needed:
 ID (Use alphanumerics, not just numbers)
@@ -8,3 +8,5 @@ createdBy (You can use this to implement a community docs page and find who crea
 dateCreated (No type is really needed, I used VARCHAR in my database.)
 
 Have fun!
+ 
+
